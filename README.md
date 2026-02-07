@@ -21,4 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Hackerspace-sys&icon=2&color=13)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/Hackerspace-sys/Hackerspace-sys/blob/output/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
